@@ -4,7 +4,6 @@
 - 📫 How to reach me :
    - Disc : `xtersss`
    - Insta : `xteruh`
-- 😄 **Pronouns**: he / him
 - ⚡ **Fun fact**: I actually love **Backrooms** so much (*and my future wife*)
 
 <!---
