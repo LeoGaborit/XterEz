@@ -1,5 +1,4 @@
-- 👋 Hi, I’m `Xter` aka ***Le futur président*** aka Léo
-- 👀 I’m interested in becoming the president of the **OEIL**
+- 👋 Hi, I’m `Xter` aka Léo
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me :
    - Disc : `xtersss`
